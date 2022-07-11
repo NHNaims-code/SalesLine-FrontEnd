@@ -1,0 +1,1 @@
+export const secret_code = "123456"
